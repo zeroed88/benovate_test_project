@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=benovate_test_project
+POSTGRES_USER=OYdHIFMkAeOMfWWaBObTGWNiALLdAgjv
+POSTGRES_PASSWORD=69Rg3gQPzeMZMOBgEhwAwZgkC47M4WXT0VbyyiHyOlUQOYdiGg3Uij4PhEnOug1E

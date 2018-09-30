@@ -1,0 +1,9 @@
+# General
+# ------------------------------------------------------------------------------
+USE_DOCKER=yes
+DATABASE_URL=postgres://OYdHIFMkAeOMfWWaBObTGWNiALLdAgjv:69Rg3gQPzeMZMOBgEhwAwZgkC47M4WXT0VbyyiHyOlUQOYdiGg3Uij4PhEnOug1E@postgres/benovate_test_project
+
+# Redis
+# ------------------------------------------------------------------------------
+REDIS_URL=redis://redis:6379/0
+
